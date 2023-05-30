@@ -1,17 +1,15 @@
 # Notes
-The Training Session presented by Samim on Milestone
-1. Breakdown project in section
-2. Define
-3. Detail
-4. Collaborate
-5. Deal
-6. Handel
-7. Team up
+The Training Session presented by Samim on
+1. Branch.
+2. Pull Req.
+3. Fork.
+
 ## About today main  Notes by Samim
-1. define the Project in detail.
-2. Group related task on Milestone.
-3. Set deadlines to the Milestone.
-4. Break down each Milestone into smaller tasks.
-5. Track your progress.
+1. define the Branch in detail.\
+2. Why We use Branch.
+3. What is pull req.
+4. Why we use Pull Req
+5. What is Fork in Github.
+6. WHy we use  Fork.
 
 
